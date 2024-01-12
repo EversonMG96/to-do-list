@@ -91,6 +91,9 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(/to-do-list/src/images/checked.png);
-     
+    background-image: url(/to-do-list/src/images/checked.png); 
+}
+
+ul li span {
+    
 }
